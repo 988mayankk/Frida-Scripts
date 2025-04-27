@@ -2,6 +2,7 @@
 Frida Scripts To Bypass SSL Pinning
 
 **Usage**
+
 You don't need to configure iptables for Android or OpenVPN for iOS. Just follow the steps below.
 
 1. Set up burp invisible proxy on the host machine
