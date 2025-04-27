@@ -1,5 +1,5 @@
 # Frida-Scripts
-Frida Scripts To Bypass SSL Pinning
+Frida Scripts To Bypass SSL Pinning for Flutter Applications
 
 # Usage
 You don't need to configure iptables for Android or OpenVPN for iOS. Just follow the steps below.
