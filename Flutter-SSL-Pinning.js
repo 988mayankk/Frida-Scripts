@@ -715,7 +715,7 @@ if (target_flutter_library != null) {
                 callback(+base);
                 return;
             }
-        }, 0);
+        }, 100);
     }
     
     function init(base) {
